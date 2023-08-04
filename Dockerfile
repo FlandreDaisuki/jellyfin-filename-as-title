@@ -1,4 +1,4 @@
-FROM alpine:3.17.1
+FROM alpine:3.18.2
 
 RUN apk --no-cache add jq curl
 
