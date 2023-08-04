@@ -4,7 +4,7 @@ services:
   jellyfin-filename-as-title:
     build: .
     container_name: jellyfin-filename-as-title
-    image: flandre/jellyfin-filename-as-title
+    image: flandre.tw/jellyfin-filename-as-title
     restart: unless-stopped
     environment:
       - USER_NAME=${USER_NAME}
