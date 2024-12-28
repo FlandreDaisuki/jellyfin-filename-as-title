@@ -1,5 +1,8 @@
 # Jellyfin Filename as Title
 
+> [!IMPORTANT]
+> There is useless if you choose **"Home Video and Photos"** for Library type. Please choose this type rather than other types.
+
 A scheduler to rename all video titles
 
 ## Usage
